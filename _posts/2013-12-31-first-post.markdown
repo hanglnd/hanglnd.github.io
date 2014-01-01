@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  '2013 Review and Hello to 2014!'
-categories: 
+categories: en
 ---
 
 If I could give 2013 a name, it would be a "Courage Year" in my life, where I took initiatives for changes I desired.
 
 ***My working life:***
 Many ups and downs happened in my work, (well, as usual!) but in 2013 they translated to action. First, I decided to transfer to a new department in April and had great time working in a fast pace over there. In 2 months I accomplished  even more than I had in the last 2 years. My confidence and self-esteem were boosted as a result.
+
+<!--More-->
 
 Again, everything is impermanent. From Jun to Sep, I had a hard time struggling as I worked with a new boss. Although I took initiative and a leap of faith to complete a challenging project on my own, I still felt a lot of dissatisfaction about the way my bosses handled things. At the same time, I couldn’t see real value in what I was doing. In the end, I told my bosses that I wanted to leave. A boss in another department offered me to work for him in a new role which I thought was exciting. So, instead of quitting, I took 2 month no-pay leave and would come back to a new post after the Lunar New Year.
 
