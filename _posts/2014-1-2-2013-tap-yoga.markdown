@@ -12,7 +12,7 @@ Yoga với mình không chỉ đơn thuần là tập thể chất, mà nó như
 
 Sáng nay mình tập bài *Vinyasa* yoga về [*Warrior 3*](http://www.ekhartyoga.com/video/learn-the-challenging-warrior-iii-pose). Không dễ dàng! Chân mình run lẩy bẩy và mồ hôi toát ra như tắm khi phải tập lâu ở động tác *lunges* hay giữ thăng bằng ở động tác *Warrior 3*. Mình cần tập chân cho khoẻ hơn. So với ngày trước, chân mình đã khoẻ hơn khi tập *Warrior 1* và *Warrior 2*, nhưng vẫn chưa đủ. 
 
-!*[Tư thế Yoga - nguồn: Internet]*(/img/yogapose.png)
+![*Tư thế Yoga - nguồn: Internet*](/img/yogapose.png)
 
 *Vinyasa* là một phương thức (style) yoga, tập trung vào nhịp thở và chuyển động của cơ thể giữa các động tác yoga. Ở những bài cơ bản, *Vinyasa* cũng làm mình toát mồ hôi. 
 
@@ -39,5 +39,5 @@ Tập luyện *Vinyasa Yoga* đều đặn sẽ mang lại những lợi ích ch
 * Tập Yoga mang ta vào hiện tại, đây chính là cánh cửa để cảm nhận hạnh phúc thực sự.
 
 Tới khi nào làm được thế này thì chắc là đi dạy Yoga được =D
-!*[Warrior 3 - Chiến Binh 3 - nguồn: Internet]*(/img/warrior-3.png)
+![*Warrior 3 - Chiến Binh 3 - nguồn: Internet*](/img/warrior-3.png)
 
