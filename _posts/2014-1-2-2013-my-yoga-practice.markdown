@@ -10,11 +10,11 @@ I used to be scared of yoga when I practiced at the yoga centre. Yoga there is a
 
 This morning I practiced [Warrior 3](http://www.ekhartyoga.com/video/learn-the-challenging-warrior-iii-pose). Challenging man! Especially when I had to stay in lunges for 3 continuous breaths and balance myself in Warrior 3. I need to strengthen my legs more. I can see the improvement in my legs' strength when I do Warrior 1 and 2. But it's still not enough for long pose in lunges and Warrior 3. 
 
-!*[Yoga Poses - source: Internet]*(/img/yogapose.png)
+![*Yoga Poses - source: Internet*](/img/yogapose.png)
 
 Vinyasa practice focuses on the movement of breaths, where each in-breath and out-breath links to the movement between yoga postures (asanas). It can make me sweat even at its beginner level. 
 
-Let me share some useful information I've read on Vinyasa Yoga. 
+Some useful information I've read on [Vinyasa Yoga](http://www.ekhartyoga.com/everything-yoga/yoga-styles/vinyasa-yoga). 
 
 Vinyasa is one of many yoga styles, which originated from Hatha Yoga (Yoga students often begin with Hatha Yoga where the focus is on the alignment of yoga pose). Vinyasa, on the other hand, place attention on the breath and the movement between the asanas (yoga poses). The length of each in-breath or out-breath dictates the transitioning time between asanas. The breathing style in Vinyasa is called *Ujjayi* where we breath in from our noses and breath out from our throats. You can hear the ocean sound when doing *Ujjayi* breathing. This is a relaxing breathing style which also helps us to stay more focus in our breaths. 
 
@@ -33,8 +33,7 @@ Practicing Vinyasa Yoga regularly will improve your health, both physically and 
 
 - Brings you to the present - Yoga opens you up to this moment, which is all there is and which is the doorway to experience truth and real happiness.
 
-[Source:](http://www.ekhartyoga.com/everything-yoga/yoga-styles/vinyasa-yoga)
 
 Okay, let's do more practice. If only I can do this, I can go and teach Yoga lol!
 
-!*[Warrior 3 - Source: Internet]*(/img/warrior-3.png)
+![*Warrior 3 - Source: Internet*](/img/warrior-3.jpg)
