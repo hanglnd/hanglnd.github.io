@@ -54,3 +54,4 @@ Xôi xéo có 3 thành phần chính: xôi, đỗ và hành. Trong đó phần h
 
 Vậy là bạn đã có 1 bát xôi xéo pờ rồ tại nhà rồi. Món này chắc ở VN chẳng ai lại làm ở nhà nhỉ, vì cách rách qúa, ra ngoài hàng mua về ăn cho tiện. Còn bên này là đặc sản đấy ;)
 
+Nguồn tham khảo: http://www.savourydays.com/xoi-xeo/
