@@ -25,15 +25,15 @@ Dù sao đi nữa mình vẫn mơ ước được tự tay là món này bởi m
 
 **Cách làm:**
 
-Xôi xéo có 3 thành phần chính: xôi, đỗ và hành. Trong đó phần hành và đỗ cần chuẩn bị trước, còn xôi thì làm rất nhanh nếu nấu bằng nồi cơm điện. Mình sẽ trình trình tự theo thời gian: 
+Xôi xéo gồm 3 thành phần chính là xôi, đỗ và hành. Trong đó hành và đỗ cần chuẩn bị trước, còn xôi thì làm rất nhanh nếu nấu bằng nồi cơm điện. Mình sẽ trình bày theo trình tự thời gian: 
 
 1) Hành:
 - Hành khô thái mỏng, dày bằng nhau. Chú ý không thái hành mỏng quá. 
 - Rải hành ra đĩa rồi phơi ra nắng/gió cho khô. Có thể để hành qua đêm hoặc từ để từ trưa tới tối là ok. 
 - Khi hành đã khô, rắc đều 1 ít bột năng lên. Làm vậy để hành giòn hơn sau khi phi, nhưng không có cũng không sao.
 - Phi hành:
-	- Để tiết kiệm dầu, dùng chảo hoặc xoong con, đổ dầu ngập khoảng 1 cm. Khi dầu nóng thì cho hành vào phi. Đảo đều hành. Khoang 2 phút sau khi hành chuyển sang màu vàng thì tắt bếp. Vớt hành ra để ráo mỡ (có thể dùng muỗng lưới hoặc giấy thấm dầu).
-	- Ở bước này, nếu có mỡ gà để dùng thay dầu thì sẽ thơm hơn. Mỡ gà thì bạn có thể rán thì phần da gà. 
+	- Để tiết kiệm dầu, dùng chảo hoặc xoong con, đổ dầu ngập khoảng 1 cm. Khi dầu nóng thì cho hành vào phi. Đảo đều hành. Khoảng 2 phút sau khi hành chuyển sang màu vàng thì tắt bếp. Vớt hành ra để ráo mỡ (có thể cho hành lên muỗng lưới hoặc giấy thấm dầu).
+	- Ở bước này, nếu có mỡ gà để dùng thay dầu thì sẽ thơm hơn. Mỡ gà thì đơn giản bạn rán từ phần da gà thôi, nhớ đừng đậy vung vì nước sẽ chảy vào mỡ. 
 	- Dầu/mỡ sau khi phi hành để lại để sau này rưới lên xôi.
 
 2) Đỗ
@@ -41,13 +41,13 @@ Xôi xéo có 3 thành phần chính: xôi, đỗ và hành. Trong đó phần h
 - Cho đỗ xanh vào nồi, đổ nước xâm xấp và đun sôi. 
 - Sau khi sôi, hạ lửa nhỏ, khoảng tầm 15 phút. Khi nào thấy đỗ đã mềm thì tắt bếp. Ở bước này, chú ý để nồi đỗ không bị cạn nước.
 - Vớt đỗ đã chín mềm ra để ráo, cho vào cối giã cho nhuyễn, thêm 1 ít muối. Nếu không có cối bạn cho vào bát tô rồi lấy muôi để nghiền, nhưng sẽ lâu hơn. 
-- Nếu ăn ngay, bạn chỉ việc đánh tơi đỗ rồi rắc lên xôi. Còn nếu không, bạn hãy nắm đỗ thành viên tròn cho chặt, để nguội, rồi lấy dao thái lên xôi, trông rất chuyên nghiệp giống như ngoài hàng vậy :D. 
+- Nếu ăn ngay, bạn chỉ việc đảo tơi đỗ rồi rắc lên xôi. Còn nếu không, bạn nắm đỗ thành viên tròn cho chặt, để nguội, rồi lấy dao thái lên xôi, trông rất "chuyên nghiệp" giống như ngoài hàng vậy :D. 
 
 3) Xôi
 - Trong lúc chờ đỗ chín bạn cho phần gạo tẻ vào nồi cơm điện. Cho nước vào nhỉnh hơn mặt gạo 1 chút. Cho thêm 1 ít bột nghệ vào, lắc đều nồi. 
-	- Dùng bao nhiêu bột nghệ? Bạn cho ít một tới khi nước gạo có màu hơi hơi vàng. Với loại bột nghệ mình mua thì cần 1/2 thìa cà phê.
+	- Dùng bao nhiêu bột nghệ? Bạn cho ít một tới khi nước gạo có màu hơi vàng vàng. Chú ý nếu nhiều quá thì nấu ra sẽ thành xôi nghệ đấy :D. Với loại bột nghệ mình mua thì cần 1/2 thìa cà phê.
 	- Mình thấy nấu 2 bát xôi vào nồi cơm điện cỡ lớn thì xôi dễ bị cháy phía dưới. Tốt hơn nếu bạn dùng nồi cơm cỡ nhỏ, hoặc không bạn thổi nhiều xôi hơn. 
-- Thêm 1 ít muối, rồi nấu như nấu cơm. Gạo chín mềm sẽ có màu vàng như xôi xéo, ăn có vị đậm đậm.
+- Thêm 1 ít muối, rồi nấu như nấu cơm. Gạo chín mềm sẽ có màu vàng như xôi xéo, ăn có vị đậm đà.
 
 4) Trình bày:
 - Xới xôi ra bát/đĩa, rắc đỗ lên, rắc hành khô lên, rưỡi mỡ/dầu phi hành vào. 
