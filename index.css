@@ -1,0 +1,125 @@
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'georgia', sans-serif;
+  letter-spacing: 0.2px;
+  line-height: 30px;
+  color: #555;
+}
+
+.container {
+  width: 730px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.header {
+  margin: 40px auto 30px auto;
+}
+
+.title {
+  margin: 50px 0px 20px 0px;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'open sans', sans-serif;
+}
+
+.right-layout {
+  float: right;
+}
+
+.right-layout a {
+  margin-left: 20px;
+  font-size: 16px;
+  font-family: 'open sans', sans-serif;
+}
+
+.right-layout a:not(:last-child) {
+  margin-right: 20px;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.clear-both {
+  clear: both;
+}
+
+a {
+  color: #888;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #555;
+}
+
+.active {
+  color: #555;
+}
+
+@media (min-width: 1024px) {
+    .container{
+        max-width: 1024px;
+    }
+}
+
+h1 {
+  font-family: 'open sans', sans-serif;
+}
+
+h3 {
+  font-family: 'arial', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: #555;
+}
+
+.caption {
+  font-style: italic;
+  font-size: 14px;
+  text-align: center;
+  opacity: 0.7;
+  margin-top: 5px;
+}
+
+.caption1 {
+  font-style: italic;
+  font-size: 14px;
+  text-align: center;
+  opacity: 0.7;
+  margin-top:-20px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.img-layout {
+  width: 350px;
+  margin: 10px 0px;
+}
+
+.img-layout img {
+  width: 100%;
+}
+
+.front-caption {
+  text-align: center;
+  font-family: 'arial', sans-serif;
+  color: #888;
+  font-size: 16px;
+  margin-top: 10px;
+}
