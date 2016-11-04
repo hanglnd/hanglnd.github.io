@@ -26,10 +26,10 @@ body {
 }
 
 .name {
-  font-size: 30px;
+  font-size: 36px;
   color: #575757;
   margin-bottom: 5px;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .right-layout {
@@ -63,8 +63,8 @@ a {
   text-decoration: none !important;
 }
 
-a:hover {
-  color: #555;
+.right-layout > a:hover {
+  color: #00A885;
 }
 
 .active {
