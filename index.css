@@ -1,6 +1,8 @@
 
 html {
   box-sizing: border-box;
+  width: 100%;
+  margin: 0px;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -11,10 +13,12 @@ body {
   letter-spacing: 0.2px;
   line-height: 30px;
   color: #555;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
 }
 
 .container {
-  width: 750px;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -69,12 +73,6 @@ a {
 
 .active {
   color: #00A885;
-}
-
-@media (min-width: 1024px) {
-    .container{
-        max-width: 1024px;
-    }
 }
 
 .content-header {
@@ -144,4 +142,30 @@ p {
   margin-top: 40px;
   color: #888;
   font-size: 12px;
+}
+
+
+/* Portrait and Landscape */
+@media screen
+  and (min-width: 320px)
+  and (max-width: 700px){
+    .container {
+      width: 100%;
+    }
+
+    .img-layout {
+      width: 100%;
+    }
+
+    .img-layout:nth-child(3n+2) {
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+}
+
+@media screen
+  and (min-width: 701px) {
+    .container {
+      width: 750px;
+    }
 }
