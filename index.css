@@ -32,13 +32,13 @@ body {
 .name {
   font-size: 36px;
   color: #575757;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
   font-weight: 700;
 }
 
 .right-layout {
   float: right;
-  margin-top: -25px;
+  margin-top: -45px;
 }
 
 .right-layout a {
@@ -153,8 +153,26 @@ p {
       width: 100%;
     }
 
+    .name-wrapper {
+      margin-left: 10px;
+    }
+
+    .right-layout {
+      float: left;
+      margin-top: 20px;
+    }
+
+    .right-layout > a {
+      margin-left: 10px;
+    }
+
+    .img-wrapper {
+      margin-top: 10px;
+    }
+
     .img-layout {
       width: 100%;
+      padding: 10px;
     }
 
     .img-layout:nth-child(3n+2) {
